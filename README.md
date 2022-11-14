@@ -7,9 +7,9 @@ The data comes from the UNC Davis Library public repository, --.
 
 
 ### The Purpose
-
+The NC_subset data we created can be used to identify the number of teen births across the state, specifically to analyze specific trends in this data. 
 
 ### Potential 
-The purpose (what is the data for and who)
+This data can be useful for hospital workers, --, and -- because they have an impact on teen births and witness the effects throughout the community. 
 Potential (WHY was the repo created and what might people do with it) 
 
