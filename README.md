@@ -13,4 +13,4 @@ The NC_subset data we created can be used to identify the number of teen births 
 This data can be useful for hospital workers, --, and -- because they have an impact on teen births and witness the effects throughout the community. 
 Potential (WHY was the repo created and what might people do with it) 
 
-!(Teen Births Image1.png)
+![hello](Teen Births Image1.png)
