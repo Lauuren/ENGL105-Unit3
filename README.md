@@ -12,7 +12,7 @@ The NC_subset data we created can be used to identify the various health conditi
 ![alt text](Teen Births Image 1.png)
 
 ### Potential 
-This data can be useful for hospital workers, --, and -- because they have an impact on teen births and witness the effects throughout the community. 
-Potential (WHY was the repo created and what might people do with it) 
+This repository was created to assist the public in creating a subset from a large data set, specifically breaking down the public health data found in UNC Davis Library's public repository. This data can be useful for hospital workers and social workers because their jobs are directly related to teen births and they witness the effects throughout the community. 
+
 
 ![]()
