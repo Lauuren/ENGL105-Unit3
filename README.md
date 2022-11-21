@@ -3,7 +3,7 @@ This is a repository containing instructional materials and sample data sets for
 
 The repository contains two CSV files that contain the original data and its coinciding subset. These datasets are contained in the data file, along with the Markdown instructions/actual program used to create the new subset.
 
-The data comes from the UNC Davis Library public repository, --. 
+The data comes from the [UNC Davis Library public repository](https://www.example.com) and is identified as the "County Health Public Dataset" 
 
 
 ### The Purpose
