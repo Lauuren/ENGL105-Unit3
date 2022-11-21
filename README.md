@@ -15,5 +15,6 @@ The NC_subset data we created can be used to identify the various health conditi
 ### Potential 
 This repository was created to assist the public in creating a subset from a large data set, specifically breaking down the public health data found in UNC Davis Library's public repository. This data can be useful for hospital workers and social workers because their jobs are directly related to teen births and they witness the effects throughout the community. 
 
+**What is the correlation between average teen births and NC counties?**
 ![Teen births 2](https://user-images.githubusercontent.com/65384949/202939446-2c4961d9-a677-415d-8b8e-a6f548007c08.png)
 *The column chart was created with Tablaeu and visualizes a random sample of 10 counties in North Carolina and their average number of teen births.*
