@@ -13,7 +13,7 @@ The NC_subset data we created can be used to identify the various health conditi
 ![Teen Births Map](https://user-images.githubusercontent.com/65384949/202938157-b37a1e1f-47cd-462d-9f4b-9fe76619a806.jpg)
 
 ### Context
-It is important to analyze teen pregnancy across the state to understand the other factors that effect the livelihood of teens. According to the [CDC](https://www.cdc.gov/teenpregnancy/about/index.htm#:~:text=The%20Importance%20of%20Prevention&text=The%20children%20of%20teenage%20mothers,unemployment%20as%20a%20young%20adult), it is known that most teen moms drop out of highschool and only about 50% get a diploma. After school it is even less likely that they will become employed, supporting that teen births affect many different standards of life as seen in the NC and across various counties.
+It is important to analyze teen pregnancy across the state to understand the other factors that effect the livelihood of teens. According to the [CDC](https://www.cdc.gov/teenpregnancy/about/index.htm#:~:text=The%20Importance%20of%20Prevention&text=The%20children%20of%20teenage%20mothers,unemployment%20as%20a%20young%20adult), it is known that most teen moms drop out of highschool and only about 50% get a diploma. After school it is even less likely that they will become employed, supporting that teen births have an affect on the standard of life across counties. 
 
 
 ### Who can the data be useful for and why? 
