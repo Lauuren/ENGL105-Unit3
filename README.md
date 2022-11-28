@@ -7,7 +7,7 @@ The data comes from the [UNC Davis Library public repository](https://library.un
 
 
 ### What is the function of the NC Subset?
-The NC_subset data we created can be used to identify the various health conditions across the state of North Carolina. Specifically, locating the average number of teen births throughout different counties and visualizing trends and common correlations. As seen in the map below, by comparing the data across the counties it becomes clear the areas with the highest number of teen births. 
+The NC_subset data we created can be used to identify the various health conditions across the state of North Carolina. Specifically, locating the average number of teen births throughout different counties and visualizing trends and common correlations. As seen in the map below, by comparing the data across the counties it becomes clear the areas with the highest number of teen births. We can use this to compare with other factors across counties including the poverty rate to see if there is any correlation. 
 
 ![Teen Births Map](https://user-images.githubusercontent.com/65384949/202938157-b37a1e1f-47cd-462d-9f4b-9fe76619a806.jpg)
 
